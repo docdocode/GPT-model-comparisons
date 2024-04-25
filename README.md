@@ -5,16 +5,19 @@ To run the GPT Model Comparison tool, follow these steps:
 Ensure Python 3.6 or newer is installed.
 Install necessary libraries, possibly using a requirements file if provided:
 
-     pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
-2. Configure API Keys:
+3. Configure API Keys:
 Obtain and set up your OpenAI API keys in the configuration file or as environment variables.
-3. Select Models for Comparison:
+4. Select Models for Comparison:
 Modify the configuration settings to specify which GPT models (e.g., GPT-3, GPT-4, Turbo variants) you want to compare.
-4. Run the Comparison Script:
+5. Run the Comparison Script:
 Execute the main script from the command line:
-     python compare_gpt_models.py
-     
-5. Review Results:
+```
+python compare_gpt_models.py
+```  
+7. Review Results:
 Check the output, which may be printed to the console or saved to a file, detailing the performance metrics and comparison results.
 Make sure to check any provided documentation for specific details or additional configuration options.
