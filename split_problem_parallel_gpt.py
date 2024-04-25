@@ -12,8 +12,6 @@ combinations_to_test = 30
 # List of models to test
 model_names = ["gpt-3.5-turbo-0125", "gpt-3.5-turbo-1106", "gpt-3.5-turbo-16k", "gpt-3.5-turbo-0613", "gpt-4-turbo-2024-04-09", "gpt-4-0125-preview", "gpt-4-1106-preview", "gpt-4-0613" ]
 
-# model_names = ["gpt-4-1106-preview"]
-
 problem_1 = "A circus car rink has 12 red cars. They have 2 fewer green cars than they have red cars. They have 3 times the number of blue cars as they have green cars. The rink also has yellow cars. If the rink has 75 cars in total how many yellow cars do they have?"
 problem_2 = "Avi is trying to decide whether he really needs to do his homework. If the normal teacher comes in, there's a 40% chance she'll give everyone an extension. There's a 50% chance that tomorrow he'll have a substitute teacher who won't collect the homework. Even if the whole class doesn't get an extension, there's a 20% chance Avi can convince the teacher his dog ate his assignment and get a personal extension. What is the percentage chance that Avi will actually have to turn in his homework tomorrow?"
 
