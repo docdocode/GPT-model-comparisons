@@ -9,7 +9,6 @@ import re
 from exa_py import Exa
 from pathlib import Path
 
-
 class GPT_calls:
     def __init__(self, 
                  name="GPT chat",
